@@ -38,7 +38,7 @@ export default function Header({ showBackButton = false, title = '', hasAvatar =
                     )}
                     {hasAvatar && (
                         <Pressable onPress={() => setShowSlideUp(true)}>
-                            <Image source={require('@/assets/img/thomino.jpg')} className='w-8 h-8 rounded-full' />
+                            <Image source={require('@/assets/img/damola.png')} className='w-8 h-8 rounded-full' />
                         </Pressable>
                     )}
                     {title && (

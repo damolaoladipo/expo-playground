@@ -79,7 +79,7 @@ export default function SlideUp({ visible = true, onClose }: SlideUpProps) {
                     }}
                     className="bg-light-secondary w-full dark:bg-black rounded-3xl p-6">
                     <View className="flex-col items-center justify-start p-6">
-                        <Image source={require('@/assets/img/thomino.jpg')} className='w-16 h-16 rounded-full mb-2' />
+                        <Image source={require('@/assets/img/damola.png')} className='w-16 h-16 rounded-full mb-2' />
                         <View className="flex-1 items-center">
                             <Text className="text-sm text-neutral-500 dark:text-neutral-400">Built by</Text>
                             <Text className="text-xl font-bold dark:text-white">Thomino</Text>

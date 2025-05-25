@@ -82,7 +82,7 @@ export default function SlideUp({ visible = true, onClose }: SlideUpProps) {
                         <Image source={require('@/assets/img/damola.png')} className='w-16 h-16 rounded-full mb-2' />
                         <View className="flex-1 items-center">
                             <Text className="text-sm text-neutral-500 dark:text-neutral-400">Built by</Text>
-                            <Text className="text-xl font-bold dark:text-white">Thomino</Text>
+                            <Text className="text-xl font-bold dark:text-white">Damola Oladipo</Text>
                         </View>
 
                     </View>
